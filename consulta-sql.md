@@ -1,3 +1,5 @@
 # Consulta SQL
 
-SELECT * FROM ...
+Consulta a ser feita no banco:
+
+*
