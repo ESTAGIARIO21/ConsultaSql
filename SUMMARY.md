@@ -2,5 +2,5 @@
 
 * [Requisitos](README.md)
 
-* [Consulta SQL](consulta/consulta.md)
+* [Consulta SQL](consulta-sql.md)
    
